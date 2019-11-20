@@ -43,7 +43,7 @@ void computerTurn( int* z /* 8 */, int xor /* 3 */, int* x, int* y) {
     *z = wantToTakeDownToC;
 
     if(wantToTakeDownToC == 0 && *x == 0 && *y == 0) {
-        printf("Game Over - You Lost !!");
+        printf("Game Over - You Lost !!\n");
     } else {
         printf("Packet sizes are: %d %d %d\n", *x, *y, *z);
     }
