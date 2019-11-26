@@ -6,4 +6,8 @@ Nim is a mathematical game of strategy in which two players take turns removing 
 
 Have a look at it and try to beat the computer, don't hesitate to send me a message when you win 😄
 
+## Compiling
+``` gcc main.c -o app ```
+
+
 Brought to you by @Zcorp with 🖤
